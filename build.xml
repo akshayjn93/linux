@@ -21,15 +21,15 @@
   </target>
 
   <!-- Define the CLASSPATH -->
-  <path id="compile.classpath">
+ <!-- <path id="compile.classpath">-->
     <!--<fileset dir="${tcserver.home}/bin">-->
-      <include name="*.jar"/>
+    <!--  <include name="*.jar"/>-->
     <!--</fileset>-->
     <!--<pathelement location="${tcserver.home}/lib"/>
     <fileset dir="${tcserver.home}/lib">-->
-      <include name="*.jar"/>
+      <!--<include name="*.jar"/>
     <!--</fileset>-->
-  </path>
+  <!--</path>-->
 
   <target name="all" depends="clean,compile,dist"
           description="Clean work dirs, then compile and create a WAR"/>
