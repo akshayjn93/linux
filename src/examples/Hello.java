@@ -1,4 +1,14 @@
 package examples;
+<<<<<<< HEAD
+=======
+Aksahay Jain fudhbsjnfdsn
+<<<<<<< HEAD
+Rahul Gautam 
+=======
+
+GGAvhdsndmnfhwfnnsdbanv vnddasnfvma,mc,msad
+>>>>>>> a4b495d87b6ef1b14f1f0524575cfc9eb7091cc7
+>>>>>>> 48f2aa831a42525477b36c192798cdf0e1237172
 import java.io.IOException;
 import java.io.PrintWriter;
 import javax.servlet.ServletException;
