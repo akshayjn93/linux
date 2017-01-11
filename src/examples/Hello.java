@@ -1,6 +1,11 @@
 package examples;
 Aksahay Jain fudhbsjnfdsn
+<<<<<<< HEAD
 Rahul Gautam 
+=======
+
+GGAvhdsndmnfhwfnnsdbanv vnddasnfvma,mc,msad
+>>>>>>> a4b495d87b6ef1b14f1f0524575cfc9eb7091cc7
 import java.io.IOException;
 import java.io.PrintWriter;
 import javax.servlet.ServletException;
