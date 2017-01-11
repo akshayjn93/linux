@@ -1,7 +1,4 @@
 package examples;
-Aksahay Jain fudhbsjnfdsn
-
-GGAvhdsndmnfhwfnnsdbanv vnddasnfvma,mc,msad
 import java.io.IOException;
 import java.io.PrintWriter;
 import javax.servlet.ServletException;
